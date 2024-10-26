@@ -1,6 +1,11 @@
 CHANGES
 =======
 
+2.4.1
+-----
+
+* swap from python-ldap to python3-ldap
+
 2.4.0
 -----
 
